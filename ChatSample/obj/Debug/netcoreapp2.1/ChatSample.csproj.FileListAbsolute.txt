@@ -1,0 +1,14 @@
+D:\总后台\SignalR-samples\ChatSample\ChatSample\bin\Debug\netcoreapp2.1\ChatSample.deps.json
+D:\总后台\SignalR-samples\ChatSample\ChatSample\bin\Debug\netcoreapp2.1\ChatSample.runtimeconfig.json
+D:\总后台\SignalR-samples\ChatSample\ChatSample\bin\Debug\netcoreapp2.1\ChatSample.runtimeconfig.dev.json
+D:\总后台\SignalR-samples\ChatSample\ChatSample\bin\Debug\netcoreapp2.1\ChatSample.dll
+D:\总后台\SignalR-samples\ChatSample\ChatSample\bin\Debug\netcoreapp2.1\ChatSample.pdb
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.csprojAssemblyReference.cache
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.csproj.CoreCompileInputs.cache
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.RazorAssemblyInfo.cache
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.RazorAssemblyInfo.cs
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.AssemblyInfoInputs.cache
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.AssemblyInfo.cs
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.RazorTargetAssemblyInfo.cache
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.dll
+D:\总后台\SignalR-samples\ChatSample\ChatSample\obj\Debug\netcoreapp2.1\ChatSample.pdb
